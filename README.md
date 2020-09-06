@@ -6,7 +6,6 @@ I'm a Data Science Enthusiast 📈😎, Computer Vision & Edge A.I. Practitioner
 
 - 🔭 Currently working on my Data Science projects. 
 - 🌱 Currently learning NLP, Selenium and web-dev.
-- 📚 Currently reading : **The ONE Thing** by Gary Keller.
 - 📫 Lets Connect : [Twitter - @Ankit_Vashisht0](https://twitter.com/AnkitVashisht_0) | [LinkedIn - @ankitvashisht12](https://www.linkedin.com/in/ankitvashisht12/).
 - 🌐 Check out my site : [ankitvashisht12.github.io](https://ankitvashisht12.github.io/)
 - ⚡ Fun Fact: I code everyday.
