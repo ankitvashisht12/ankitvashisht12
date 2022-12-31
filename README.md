@@ -8,7 +8,7 @@ I'm a Full Stack ( MERN ) Engineer and Linux Lover 🐧❤️.
 - 🌱 Learning new things in React Ecosystem & Web Dev.
 - 📫 Lets Connect : [Twitter - @Ankit_Vashisht0](https://twitter.com/AnkitVashisht_0) | [LinkedIn - @ankitvashisht12](https://www.linkedin.com/in/ankitvashisht12/).
 - 🌐 Check out my site : [https://ankitvashisht.netlify.app](https://ankitvashisht.netlify.app/)
-- ⚡ Fun Fact: I code everyday.
+- ⚡ Fun Fact: I use Arch, btw. :)
 
 
 
