@@ -9,6 +9,9 @@ I'm a Full Stack ( MERN ) Engineer and Linux Lover 🐧❤️.
 - 🌐 Check out my site : [https://ankitvashisht.netlify.app](https://ankitvashisht.netlify.app/)
 - ⚡ Fun Fact: I use Arch, btw. :)
 
+## Github Stats
+
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitvashisht12&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Languages and Tools
