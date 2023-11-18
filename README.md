@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Full Stack ( MERN ) Engineer and Linux Lover 🐧❤️.
+I'm a Senior Software Engineer and Linux Lover 🐧❤️.
 
 - 🔭 Current Working as Full Stack Web Developer
 - 📫 Lets Connect : [Twitter - @Ankit_Vashisht0](https://twitter.com/AnkitVashisht_0) | [LinkedIn - @ankitvashisht12](https://www.linkedin.com/in/ankitvashisht12/).
