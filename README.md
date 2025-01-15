@@ -4,7 +4,6 @@
 
 I'm a Senior Software Engineer and Linux Lover 🐧❤️.
 
-- 🔭 Current Working as Full Stack Web Developer
 - 📫 Lets Connect : [Twitter - @Ankit_Vashisht0](https://twitter.com/AnkitVashisht_0) | [LinkedIn - @ankitvashisht12](https://www.linkedin.com/in/ankitvashisht12/).
 - 🌐 Check out my site : [https://ankitvashisht.in](https://www.ankitvashisht.in)
 - ⚡ Fun Fact: I use Arch, btw. :)
