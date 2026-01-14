@@ -1,4 +1,4 @@
-# Hi there, I'm [Ankit Vashisht !](https://ankitvashisht.netlify.app/) 👋
+# Hi there, I'm [Ankit Vashisht !](https://ankitvashisht.in/) 👋
 
 ## About Me
 
